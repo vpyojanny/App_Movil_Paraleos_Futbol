@@ -1,7 +1,0 @@
-{
-  "name": "futbolApp",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular-standalone"
-}
